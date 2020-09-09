@@ -7,7 +7,6 @@
   return new_array
 end
 
-
 new_array = []
 
 def square_array(array)
